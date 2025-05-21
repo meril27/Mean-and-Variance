@@ -7,12 +7,12 @@ REGISTER NUMBER :   212224040189
 
 # Aim : 
 
-To find mean and variance of arrival of objects from the feeder using probability distribution
+To find mean and variance of arrival of objects from the feeder using probability distribution.
 
 
 # Software required :  
 
-Python and Visual components tool
+Python and Visual components tool.
 
 # Theory:
 
